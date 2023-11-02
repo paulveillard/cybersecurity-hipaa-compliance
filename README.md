@@ -9,6 +9,21 @@ An ongoing & curated collection of awesome software best practices and technique
 Enacted by the US Congress in 1996, the Health Insurance Portability and Accountability Act (HIPAA) provides provisions to protect health insurance coverage for workers and their families when they change or lose their jobs. HIPAA requires the establishment of national standards for electronic healthcare transactions and national identifiers for providers, health insurance plans, and employers.
 > HIPAA has become a de facto standard for protecting the privacy and security of personally identifiable information (PII) in the healthcare industry.
 
+The Security Rule within HIPAA deals specifically with electronic
+protected health information (EPHI). It lays out three types of security
+safeguards required for compliance:
+• Administrative Safeguards: Policies and procedures
+designed to clearly show how the entity will comply
+with the act
+• Physical Safeguards: Controlling physical access to
+protect against inappropriate access to protected data
+• Technical Safeguards: Controlling access to computer
+systems and enabling covered entities to protect
+communications containing PHI (protected health
+information) transmitted electronically over open
+networks from being intercepted by anyone other than
+the intended recipient
+
 
 ## `Techniques` - Table of Contents
 
